@@ -1,0 +1,3401 @@
+('C:\\Users\\XPS\\Desktop\\Pro Portfolio\\Break-Out-2\\dist\\Break-Out-II.exe',
+ False,
+ False,
+ False,
+ ['C:\\Users\\XPS\\Desktop\\Pro '
+  'Portfolio\\Break-Out-2\\files\\asset\\logo.ico'],
+ None,
+ False,
+ False,
+ '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity type="win32" name="main" processorArchitecture="amd64" version="1.0.0.0"/><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" language="*" processorArchitecture="*" version="6.0.0.0" publicKeyToken="6595b64144ccf1df"/></dependentAssembly></dependency><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/></application></compatibility><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware></windowsSettings></application></assembly>',
+ True,
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'C:\\Users\\XPS\\Desktop\\Pro '
+ 'Portfolio\\Break-Out-2\\build\\main\\Break-Out-II.pkg',
+ [('PYZ-00.pyz',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\build\\main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\XPS\\Desktop\\Pro Portfolio\\Break-Out-2\\main.py',
+   'PYSOURCE'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python311.dll',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('_lzma.pyd',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('pygame\\SDL2.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\SDL2.dll',
+   'DATA'),
+  ('pygame\\SDL2_image.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\SDL2_image.dll',
+   'DATA'),
+  ('pygame\\SDL2_mixer.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'DATA'),
+  ('pygame\\SDL2_ttf.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'DATA'),
+  ('pygame\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__init__.py',
+   'DATA'),
+  ('pygame\\__init__.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__init__.pyi',
+   'DATA'),
+  ('pygame\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\_camera_opencv.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\_camera_opencv.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\_camera_vidcapture.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\_camera_vidcapture.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\camera.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\camera.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\colordict.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\colordict.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\cursors.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\cursors.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\draw_py.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\draw_py.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\fastevent.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\fastevent.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\freetype.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\freetype.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\ftfont.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\ftfont.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\locals.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\locals.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\macosx.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\macosx.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\midi.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\midi.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\pkgdata.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\pkgdata.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\sndarray.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\sndarray.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\sprite.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\sprite.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\surfarray.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\surfarray.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\sysfont.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\sysfont.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pycache__\\version.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pycache__\\version.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pyinstaller\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pyinstaller\\__init__.py',
+   'DATA'),
+  ('pygame\\__pyinstaller\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pyinstaller\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pyinstaller\\__pycache__\\hook-pygame.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pyinstaller\\__pycache__\\hook-pygame.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\__pyinstaller\\hook-pygame.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\__pyinstaller\\hook-pygame.py',
+   'DATA'),
+  ('pygame\\_camera.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_camera.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\_camera_opencv.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_camera_opencv.py',
+   'DATA'),
+  ('pygame\\_camera_vidcapture.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_camera_vidcapture.py',
+   'DATA'),
+  ('pygame\\_common.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_common.pyi',
+   'DATA'),
+  ('pygame\\_freetype.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_freetype.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\_sdl2\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\__init__.py',
+   'DATA'),
+  ('pygame\\_sdl2\\__init__.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\__init__.pyi',
+   'DATA'),
+  ('pygame\\_sdl2\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\_sdl2\\audio.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\audio.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\_sdl2\\audio.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\audio.pyi',
+   'DATA'),
+  ('pygame\\_sdl2\\controller.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\controller.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\_sdl2\\controller.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\controller.pyi',
+   'DATA'),
+  ('pygame\\_sdl2\\mixer.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\mixer.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\_sdl2\\sdl2.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\sdl2.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\_sdl2\\sdl2.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\sdl2.pyi',
+   'DATA'),
+  ('pygame\\_sdl2\\touch.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\touch.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\_sdl2\\touch.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\touch.pyi',
+   'DATA'),
+  ('pygame\\_sdl2\\video.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\video.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\_sdl2\\video.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sdl2\\video.pyi',
+   'DATA'),
+  ('pygame\\_sprite.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\_sprite.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\base.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\base.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\base.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\base.pyi',
+   'DATA'),
+  ('pygame\\bufferproxy.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\bufferproxy.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\bufferproxy.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\bufferproxy.pyi',
+   'DATA'),
+  ('pygame\\camera.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\camera.py',
+   'DATA'),
+  ('pygame\\camera.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\camera.pyi',
+   'DATA'),
+  ('pygame\\color.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\color.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\color.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\color.pyi',
+   'DATA'),
+  ('pygame\\colordict.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\colordict.py',
+   'DATA'),
+  ('pygame\\constants.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\constants.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\constants.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\constants.pyi',
+   'DATA'),
+  ('pygame\\cursors.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\cursors.py',
+   'DATA'),
+  ('pygame\\cursors.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\cursors.pyi',
+   'DATA'),
+  ('pygame\\display.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\display.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\display.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\display.pyi',
+   'DATA'),
+  ('pygame\\docs\\__main__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\__main__.py',
+   'DATA'),
+  ('pygame\\docs\\__pycache__\\__main__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\__pycache__\\__main__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\docs\\generated\\LGPL.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\LGPL.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedInputOutput1.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedInputOutput1.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedInputOutput11.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedInputOutput11.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedInputOutput2.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedInputOutput2.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedInputOutput21.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedInputOutput21.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedInputOutput3.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedInputOutput3.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedInputOutput31.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedInputOutput31.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedInputOutput4.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedInputOutput4.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedInputOutput41.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedInputOutput41.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedInputOutput5.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedInputOutput5.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedInputOutput51.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedInputOutput51.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputAlpha1.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputAlpha1.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputAlpha11.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputAlpha11.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputAlpha2.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputAlpha2.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputAlpha21.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputAlpha21.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputAlpha3.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputAlpha3.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputAlpha31.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputAlpha31.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess1.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess1.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess11.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess11.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess2.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess2.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess21.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess21.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess3.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess3.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess31.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess31.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess4.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess4.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess41.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess41.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess5.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess5.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess51.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess51.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess6.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess6.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\AdvancedOutputProcess61.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\AdvancedOutputProcess61.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Bagic-INPUT-resultscreen.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Bagic-INPUT-resultscreen.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Bagic-INPUT-resultscreen1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Bagic-INPUT-resultscreen1.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Bagic-INPUT-sourcecode.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Bagic-INPUT-sourcecode.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Bagic-INPUT-sourcecode1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Bagic-INPUT-sourcecode1.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Bagic-PROCESS-resultscreen.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Bagic-PROCESS-resultscreen.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Bagic-PROCESS-resultscreen1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Bagic-PROCESS-resultscreen1.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Bagic-PROCESS-sourcecode.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Bagic-PROCESS-sourcecode.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Bagic-PROCESS-sourcecode1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Bagic-PROCESS-sourcecode1.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Bagic-ouput-result-screen.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Bagic-ouput-result-screen.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Bagic-ouput-result-screen1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Bagic-ouput-result-screen1.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Basic-ouput-sourcecode.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Basic-ouput-sourcecode.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\Basic-ouput-sourcecode1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\Basic-ouput-sourcecode1.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\angle_to.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\angle_to.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\camera_average.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\camera_average.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\camera_background.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\camera_background.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\camera_green.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\camera_green.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\camera_hsv.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\camera_hsv.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\camera_mask.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\camera_mask.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\camera_rgb.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\camera_rgb.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\camera_thresh.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\camera_thresh.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\camera_thresholded.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\camera_thresholded.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\camera_yuv.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\camera_yuv.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\chimpshot.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\chimpshot.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\chimpshot1.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\chimpshot1.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\draw_module_example.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\draw_module_example.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\intro_ball.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\intro_ball.gif',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\intro_blade.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\intro_blade.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\intro_freedom.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\intro_freedom.jpg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\introduction-Battleship.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\introduction-Battleship.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\introduction-Battleship1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\introduction-Battleship1.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\introduction-PuyoPuyo.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\introduction-PuyoPuyo.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\introduction-PuyoPuyo1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\introduction-PuyoPuyo1.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\introduction-TPS.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\introduction-TPS.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\introduction-TPS1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\introduction-TPS1.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\joystick_calls.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\joystick_calls.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\pygame_lofi.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\pygame_lofi.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\pygame_logo.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\pygame_logo.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\pygame_powered.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\pygame_powered.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\pygame_powered_lowres.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\pygame_powered_lowres.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\pygame_tiny.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\pygame_tiny.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\surfarray_allblack.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\surfarray_allblack.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\surfarray_flipped.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\surfarray_flipped.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\surfarray_redimg.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\surfarray_redimg.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\surfarray_rgbarray.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\surfarray_rgbarray.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\surfarray_scaledown.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\surfarray_scaledown.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\surfarray_scaleup.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\surfarray_scaleup.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\surfarray_soften.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\surfarray_soften.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\surfarray_striped.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\surfarray_striped.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\surfarray_xfade.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\surfarray_xfade.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\tom_basic.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\tom_basic.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\tom_event-flowchart.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\tom_event-flowchart.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\tom_formulae.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\tom_formulae.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_images\\tom_radians.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_images\\tom_radians.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\c_api.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\c_api.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\filepaths.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\filepaths.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\index.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\index.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\logos.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\logos.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\bufferproxy.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\bufferproxy.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\camera.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\camera.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\cdrom.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\cdrom.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\color.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\color.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\color_list.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\color_list.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\cursors.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\cursors.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\display.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\display.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\draw.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\draw.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\event.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\event.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\examples.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\examples.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\fastevent.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\fastevent.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\font.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\font.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\freetype.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\freetype.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\gfxdraw.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\gfxdraw.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\image.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\image.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\joystick.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\joystick.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\key.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\key.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\locals.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\locals.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\mask.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\mask.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\math.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\math.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\midi.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\midi.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\mixer.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\mixer.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\mouse.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\mouse.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\music.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\music.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\overlay.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\overlay.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\pixelarray.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\pixelarray.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\pixelcopy.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\pixelcopy.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\pygame.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\pygame.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\rect.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\rect.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\scrap.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\scrap.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\sdl2_controller.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\sdl2_controller.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\sdl2_video.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\sdl2_video.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\sndarray.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\sndarray.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\sprite.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\sprite.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\surface.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\surface.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\surfarray.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\surfarray.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\tests.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\tests.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\time.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\time.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\touch.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\touch.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_sources\\ref\\transform.rst.txt',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_sources\\ref\\transform.rst.txt',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\basic.css',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\basic.css',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\doctools.js',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\doctools.js',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\documentation_options.js',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\documentation_options.js',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\file.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\file.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\language_data.js',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\language_data.js',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\legacy_logos.zip',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\legacy_logos.zip',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\minus.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\minus.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\plus.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\plus.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygame.css',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygame.css',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygame.ico',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygame.ico',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygame_lofi.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygame_lofi.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygame_lofi.svg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygame_lofi.svg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygame_logo.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygame_logo.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygame_logo.svg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygame_logo.svg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygame_powered.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygame_powered.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygame_powered.svg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygame_powered.svg',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygame_powered_lowres.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygame_powered_lowres.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygame_tiny.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygame_tiny.png',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\pygments.css',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\pygments.css',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\reset.css',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\reset.css',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\searchtools.js',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\searchtools.js',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\sphinx_highlight.js',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\sphinx_highlight.js',
+   'DATA'),
+  ('pygame\\docs\\generated\\_static\\tooltip.css',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\_static\\tooltip.css',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\base.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\base.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\bufferproxy.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\bufferproxy.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\color.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\color.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\display.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\display.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\event.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\event.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\freetype.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\freetype.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\mixer.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\mixer.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\rect.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\rect.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\rwobject.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\rwobject.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\slots.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\slots.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\surface.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\surface.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\surflock.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\surflock.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\c_api\\version.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\c_api\\version.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\filepaths.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\filepaths.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\genindex.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\genindex.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\index.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\index.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\logos.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\logos.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\py-modindex.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\py-modindex.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\bufferproxy.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\bufferproxy.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\camera.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\camera.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\cdrom.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\cdrom.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\color.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\color.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\color_list.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\color_list.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\cursors.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\cursors.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\display.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\display.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\draw.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\draw.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\event.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\event.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\examples.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\examples.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\fastevent.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\fastevent.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\font.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\font.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\freetype.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\freetype.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\gfxdraw.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\gfxdraw.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\image.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\image.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\joystick.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\joystick.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\key.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\key.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\locals.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\locals.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\mask.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\mask.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\math.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\math.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\midi.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\midi.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\mixer.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\mixer.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\mouse.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\mouse.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\music.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\music.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\overlay.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\overlay.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\pixelarray.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\pixelarray.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\pixelcopy.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\pixelcopy.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\pygame.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\pygame.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\rect.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\rect.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\scrap.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\scrap.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\sdl2_controller.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\sdl2_controller.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\sdl2_video.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\sdl2_video.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\sndarray.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\sndarray.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\sprite.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\sprite.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\surface.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\surface.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\surfarray.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\surfarray.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\tests.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\tests.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\time.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\time.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\touch.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\touch.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\ref\\transform.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\ref\\transform.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\search.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\search.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\searchindex.js',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\searchindex.js',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\CameraIntro.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\CameraIntro.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\ChimpLineByLine.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\ChimpLineByLine.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\DisplayModes.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\DisplayModes.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\ImportInit.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\ImportInit.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\MakeGames.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\MakeGames.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\MoveIt.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\MoveIt.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\PygameIntro.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\PygameIntro.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\SpriteIntro.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\SpriteIntro.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\SurfarrayIntro.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\SurfarrayIntro.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\chimp.py.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\chimp.py.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\newbieguide.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\newbieguide.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\tom_games2.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\tom_games2.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\tom_games3.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\tom_games3.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\tom_games4.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\tom_games4.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\tom_games5.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\tom_games5.html',
+   'DATA'),
+  ('pygame\\docs\\generated\\tut\\tom_games6.html',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\docs\\generated\\tut\\tom_games6.html',
+   'DATA'),
+  ('pygame\\draw.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\draw.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\draw.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\draw.pyi',
+   'DATA'),
+  ('pygame\\draw_py.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\draw_py.py',
+   'DATA'),
+  ('pygame\\event.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\event.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\event.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\event.pyi',
+   'DATA'),
+  ('pygame\\examples\\README.rst',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\README.rst',
+   'DATA'),
+  ('pygame\\examples\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__init__.py',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\aacircle.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\aacircle.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\aliens.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\aliens.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\arraydemo.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\arraydemo.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\audiocapture.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\audiocapture.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\blend_fill.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\blend_fill.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\blit_blends.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\blit_blends.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\camera.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\camera.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\chimp.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\chimp.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\cursors.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\cursors.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\dropevent.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\dropevent.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\eventlist.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\eventlist.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\font_viewer.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\font_viewer.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\fonty.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\fonty.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\freetype_misc.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\freetype_misc.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\glcube.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\glcube.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\go_over_there.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\go_over_there.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\grid.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\grid.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\headless_no_windows_needed.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\headless_no_windows_needed.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\joystick.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\joystick.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\liquid.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\liquid.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\mask.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\mask.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\midi.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\midi.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\moveit.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\moveit.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\music_drop_fade.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\music_drop_fade.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\pixelarray.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\pixelarray.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\playmus.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\playmus.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\prevent_display_stretching.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\prevent_display_stretching.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\resizing_new.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\resizing_new.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\scaletest.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\scaletest.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\scrap_clipboard.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\scrap_clipboard.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\scroll.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\scroll.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\setmodescale.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\setmodescale.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\sound.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\sound.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\sound_array_demos.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\sound_array_demos.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\sprite_texture.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\sprite_texture.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\stars.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\stars.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\testsprite.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\testsprite.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\textinput.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\textinput.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\vgrade.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\vgrade.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\__pycache__\\video.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\__pycache__\\video.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\examples\\aacircle.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\aacircle.py',
+   'DATA'),
+  ('pygame\\examples\\aliens.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\aliens.py',
+   'DATA'),
+  ('pygame\\examples\\arraydemo.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\arraydemo.py',
+   'DATA'),
+  ('pygame\\examples\\audiocapture.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\audiocapture.py',
+   'DATA'),
+  ('pygame\\examples\\blend_fill.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\blend_fill.py',
+   'DATA'),
+  ('pygame\\examples\\blit_blends.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\blit_blends.py',
+   'DATA'),
+  ('pygame\\examples\\camera.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\camera.py',
+   'DATA'),
+  ('pygame\\examples\\chimp.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\chimp.py',
+   'DATA'),
+  ('pygame\\examples\\cursors.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\cursors.py',
+   'DATA'),
+  ('pygame\\examples\\data\\BGR.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\BGR.png',
+   'DATA'),
+  ('pygame\\examples\\data\\alien1.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\alien1.gif',
+   'DATA'),
+  ('pygame\\examples\\data\\alien1.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\alien1.jpg',
+   'DATA'),
+  ('pygame\\examples\\data\\alien1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\alien1.png',
+   'DATA'),
+  ('pygame\\examples\\data\\alien2.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\alien2.gif',
+   'DATA'),
+  ('pygame\\examples\\data\\alien2.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\alien2.png',
+   'DATA'),
+  ('pygame\\examples\\data\\alien3.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\alien3.gif',
+   'DATA'),
+  ('pygame\\examples\\data\\alien3.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\alien3.png',
+   'DATA'),
+  ('pygame\\examples\\data\\arraydemo.bmp',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\arraydemo.bmp',
+   'DATA'),
+  ('pygame\\examples\\data\\asprite.bmp',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\asprite.bmp',
+   'DATA'),
+  ('pygame\\examples\\data\\background.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\background.gif',
+   'DATA'),
+  ('pygame\\examples\\data\\black.ppm',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\black.ppm',
+   'DATA'),
+  ('pygame\\examples\\data\\blue.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\blue.gif',
+   'DATA'),
+  ('pygame\\examples\\data\\blue.mpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\blue.mpg',
+   'DATA'),
+  ('pygame\\examples\\data\\bomb.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\bomb.gif',
+   'DATA'),
+  ('pygame\\examples\\data\\boom.wav',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\boom.wav',
+   'DATA'),
+  ('pygame\\examples\\data\\brick.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\brick.png',
+   'DATA'),
+  ('pygame\\examples\\data\\car_door.wav',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\car_door.wav',
+   'DATA'),
+  ('pygame\\examples\\data\\chimp.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\chimp.png',
+   'DATA'),
+  ('pygame\\examples\\data\\city.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\city.png',
+   'DATA'),
+  ('pygame\\examples\\data\\crimson.pnm',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\crimson.pnm',
+   'DATA'),
+  ('pygame\\examples\\data\\cursor.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\cursor.png',
+   'DATA'),
+  ('pygame\\examples\\data\\danger.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\danger.gif',
+   'DATA'),
+  ('pygame\\examples\\data\\explosion1.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\explosion1.gif',
+   'DATA'),
+  ('pygame\\examples\\data\\fist.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\fist.png',
+   'DATA'),
+  ('pygame\\examples\\data\\green.pcx',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\green.pcx',
+   'DATA'),
+  ('pygame\\examples\\data\\grey.pgm',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\grey.pgm',
+   'DATA'),
+  ('pygame\\examples\\data\\house_lo.mp3',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\house_lo.mp3',
+   'DATA'),
+  ('pygame\\examples\\data\\house_lo.ogg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\house_lo.ogg',
+   'DATA'),
+  ('pygame\\examples\\data\\house_lo.wav',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\house_lo.wav',
+   'DATA'),
+  ('pygame\\examples\\data\\laplacian.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\laplacian.png',
+   'DATA'),
+  ('pygame\\examples\\data\\liquid.bmp',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\liquid.bmp',
+   'DATA'),
+  ('pygame\\examples\\data\\midikeys.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\midikeys.png',
+   'DATA'),
+  ('pygame\\examples\\data\\player1.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\player1.gif',
+   'DATA'),
+  ('pygame\\examples\\data\\punch.wav',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\punch.wav',
+   'DATA'),
+  ('pygame\\examples\\data\\purple.xpm',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\purple.xpm',
+   'DATA'),
+  ('pygame\\examples\\data\\red.jpg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\red.jpg',
+   'DATA'),
+  ('pygame\\examples\\data\\sans.ttf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\sans.ttf',
+   'DATA'),
+  ('pygame\\examples\\data\\scarlet.webp',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\scarlet.webp',
+   'DATA'),
+  ('pygame\\examples\\data\\secosmic_lo.wav',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\secosmic_lo.wav',
+   'DATA'),
+  ('pygame\\examples\\data\\shot.gif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\shot.gif',
+   'DATA'),
+  ('pygame\\examples\\data\\static.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\static.png',
+   'DATA'),
+  ('pygame\\examples\\data\\teal.svg',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\teal.svg',
+   'DATA'),
+  ('pygame\\examples\\data\\turquoise.tif',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\turquoise.tif',
+   'DATA'),
+  ('pygame\\examples\\data\\whiff.wav',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\whiff.wav',
+   'DATA'),
+  ('pygame\\examples\\data\\yellow.tga',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\data\\yellow.tga',
+   'DATA'),
+  ('pygame\\examples\\dropevent.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\dropevent.py',
+   'DATA'),
+  ('pygame\\examples\\eventlist.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\eventlist.py',
+   'DATA'),
+  ('pygame\\examples\\font_viewer.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\font_viewer.py',
+   'DATA'),
+  ('pygame\\examples\\fonty.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\fonty.py',
+   'DATA'),
+  ('pygame\\examples\\freetype_misc.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\freetype_misc.py',
+   'DATA'),
+  ('pygame\\examples\\glcube.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\glcube.py',
+   'DATA'),
+  ('pygame\\examples\\go_over_there.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\go_over_there.py',
+   'DATA'),
+  ('pygame\\examples\\grid.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\grid.py',
+   'DATA'),
+  ('pygame\\examples\\headless_no_windows_needed.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\headless_no_windows_needed.py',
+   'DATA'),
+  ('pygame\\examples\\joystick.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\joystick.py',
+   'DATA'),
+  ('pygame\\examples\\liquid.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\liquid.py',
+   'DATA'),
+  ('pygame\\examples\\mask.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\mask.py',
+   'DATA'),
+  ('pygame\\examples\\midi.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\midi.py',
+   'DATA'),
+  ('pygame\\examples\\moveit.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\moveit.py',
+   'DATA'),
+  ('pygame\\examples\\music_drop_fade.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\music_drop_fade.py',
+   'DATA'),
+  ('pygame\\examples\\pixelarray.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\pixelarray.py',
+   'DATA'),
+  ('pygame\\examples\\playmus.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\playmus.py',
+   'DATA'),
+  ('pygame\\examples\\prevent_display_stretching.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\prevent_display_stretching.py',
+   'DATA'),
+  ('pygame\\examples\\resizing_new.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\resizing_new.py',
+   'DATA'),
+  ('pygame\\examples\\scaletest.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\scaletest.py',
+   'DATA'),
+  ('pygame\\examples\\scrap_clipboard.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\scrap_clipboard.py',
+   'DATA'),
+  ('pygame\\examples\\scroll.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\scroll.py',
+   'DATA'),
+  ('pygame\\examples\\setmodescale.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\setmodescale.py',
+   'DATA'),
+  ('pygame\\examples\\sound.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\sound.py',
+   'DATA'),
+  ('pygame\\examples\\sound_array_demos.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\sound_array_demos.py',
+   'DATA'),
+  ('pygame\\examples\\sprite_texture.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\sprite_texture.py',
+   'DATA'),
+  ('pygame\\examples\\stars.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\stars.py',
+   'DATA'),
+  ('pygame\\examples\\testsprite.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\testsprite.py',
+   'DATA'),
+  ('pygame\\examples\\textinput.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\textinput.py',
+   'DATA'),
+  ('pygame\\examples\\vgrade.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\vgrade.py',
+   'DATA'),
+  ('pygame\\examples\\video.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\examples\\video.py',
+   'DATA'),
+  ('pygame\\fastevent.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\fastevent.py',
+   'DATA'),
+  ('pygame\\fastevent.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\fastevent.pyi',
+   'DATA'),
+  ('pygame\\font.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\font.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\font.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\font.pyi',
+   'DATA'),
+  ('pygame\\freesansbold.ttf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\freesansbold.ttf',
+   'DATA'),
+  ('pygame\\freetype.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\freetype.dll',
+   'DATA'),
+  ('pygame\\freetype.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\freetype.py',
+   'DATA'),
+  ('pygame\\freetype.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\freetype.pyi',
+   'DATA'),
+  ('pygame\\ftfont.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\ftfont.py',
+   'DATA'),
+  ('pygame\\gfxdraw.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\gfxdraw.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\gfxdraw.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\gfxdraw.pyi',
+   'DATA'),
+  ('pygame\\image.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\image.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\image.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\image.pyi',
+   'DATA'),
+  ('pygame\\imageext.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\imageext.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\joystick.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\joystick.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\joystick.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\joystick.pyi',
+   'DATA'),
+  ('pygame\\key.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\key.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\key.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\key.pyi',
+   'DATA'),
+  ('pygame\\libjpeg-9.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'DATA'),
+  ('pygame\\libmodplug-1.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\libmodplug-1.dll',
+   'DATA'),
+  ('pygame\\libogg-0.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\libogg-0.dll',
+   'DATA'),
+  ('pygame\\libopus-0.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\libopus-0.dll',
+   'DATA'),
+  ('pygame\\libopusfile-0.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\libopusfile-0.dll',
+   'DATA'),
+  ('pygame\\libpng16-16.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\libpng16-16.dll',
+   'DATA'),
+  ('pygame\\libtiff-5.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\libtiff-5.dll',
+   'DATA'),
+  ('pygame\\libwebp-7.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\libwebp-7.dll',
+   'DATA'),
+  ('pygame\\locals.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\locals.py',
+   'DATA'),
+  ('pygame\\locals.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\locals.pyi',
+   'DATA'),
+  ('pygame\\macosx.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\macosx.py',
+   'DATA'),
+  ('pygame\\mask.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\mask.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\mask.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\mask.pyi',
+   'DATA'),
+  ('pygame\\math.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\math.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\math.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\math.pyi',
+   'DATA'),
+  ('pygame\\midi.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\midi.py',
+   'DATA'),
+  ('pygame\\midi.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\midi.pyi',
+   'DATA'),
+  ('pygame\\mixer.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\mixer.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\mixer.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\mixer.pyi',
+   'DATA'),
+  ('pygame\\mixer_music.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\mixer_music.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\mixer_music.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\mixer_music.pyi',
+   'DATA'),
+  ('pygame\\mouse.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\mouse.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\mouse.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\mouse.pyi',
+   'DATA'),
+  ('pygame\\newbuffer.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\newbuffer.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\pixelarray.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\pixelarray.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\pixelarray.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\pixelarray.pyi',
+   'DATA'),
+  ('pygame\\pixelcopy.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\pixelcopy.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\pixelcopy.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\pixelcopy.pyi',
+   'DATA'),
+  ('pygame\\pkgdata.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\pkgdata.py',
+   'DATA'),
+  ('pygame\\portmidi.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\portmidi.dll',
+   'DATA'),
+  ('pygame\\py.typed',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\py.typed',
+   'DATA'),
+  ('pygame\\pygame.ico',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\pygame.ico',
+   'DATA'),
+  ('pygame\\pygame_icon.bmp',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\pygame_icon.bmp',
+   'DATA'),
+  ('pygame\\pygame_icon.icns',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\pygame_icon.icns',
+   'DATA'),
+  ('pygame\\pygame_icon_mac.bmp',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\pygame_icon_mac.bmp',
+   'DATA'),
+  ('pygame\\pypm.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\pypm.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\rect.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\rect.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\rect.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\rect.pyi',
+   'DATA'),
+  ('pygame\\rwobject.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\rwobject.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\rwobject.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\rwobject.pyi',
+   'DATA'),
+  ('pygame\\scrap.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\scrap.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\scrap.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\scrap.pyi',
+   'DATA'),
+  ('pygame\\sndarray.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\sndarray.py',
+   'DATA'),
+  ('pygame\\sndarray.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\sndarray.pyi',
+   'DATA'),
+  ('pygame\\sprite.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\sprite.py',
+   'DATA'),
+  ('pygame\\sprite.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\sprite.pyi',
+   'DATA'),
+  ('pygame\\surface.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\surface.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\surface.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\surface.pyi',
+   'DATA'),
+  ('pygame\\surfarray.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\surfarray.py',
+   'DATA'),
+  ('pygame\\surfarray.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\surfarray.pyi',
+   'DATA'),
+  ('pygame\\surflock.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\surflock.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\surflock.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\surflock.pyi',
+   'DATA'),
+  ('pygame\\sysfont.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\sysfont.py',
+   'DATA'),
+  ('pygame\\tests\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\__main__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__main__.py',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\__main__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\__main__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\base_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\base_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\blit_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\blit_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\bufferproxy_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\bufferproxy_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\camera_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\camera_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\color_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\color_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\constants_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\constants_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\controller_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\controller_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\cursors_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\cursors_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\display_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\display_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\docs_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\docs_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\draw_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\draw_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\event_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\event_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\font_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\font_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\freetype_tags.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\freetype_tags.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\freetype_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\freetype_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\ftfont_tags.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\ftfont_tags.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\ftfont_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\ftfont_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\gfxdraw_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\gfxdraw_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\image__save_gl_surface_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\image__save_gl_surface_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\image_tags.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\image_tags.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\image_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\image_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\imageext_tags.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\imageext_tags.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\imageext_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\imageext_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\joystick_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\joystick_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\key_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\key_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\locals_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\locals_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\mask_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\mask_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\math_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\math_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\midi_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\midi_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\mixer_music_tags.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\mixer_music_tags.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\mixer_music_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\mixer_music_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\mixer_tags.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\mixer_tags.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\mixer_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\mixer_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\mouse_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\mouse_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\pixelarray_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\pixelarray_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\pixelcopy_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\pixelcopy_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\rect_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\rect_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\rwobject_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\rwobject_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\scrap_tags.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\scrap_tags.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\scrap_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\scrap_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\sndarray_tags.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\sndarray_tags.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\sndarray_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\sndarray_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\sprite_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\sprite_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\surface_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\surface_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\surfarray_tags.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\surfarray_tags.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\surfarray_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\surfarray_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\surflock_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\surflock_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\sysfont_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\sysfont_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\threads_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\threads_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\time_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\time_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\touch_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\touch_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\transform_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\transform_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\version_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\version_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\__pycache__\\video_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\__pycache__\\video_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\base_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\base_test.py',
+   'DATA'),
+  ('pygame\\tests\\blit_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\blit_test.py',
+   'DATA'),
+  ('pygame\\tests\\bufferproxy_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\bufferproxy_test.py',
+   'DATA'),
+  ('pygame\\tests\\camera_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\camera_test.py',
+   'DATA'),
+  ('pygame\\tests\\color_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\color_test.py',
+   'DATA'),
+  ('pygame\\tests\\constants_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\constants_test.py',
+   'DATA'),
+  ('pygame\\tests\\controller_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\controller_test.py',
+   'DATA'),
+  ('pygame\\tests\\cursors_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\cursors_test.py',
+   'DATA'),
+  ('pygame\\tests\\display_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\display_test.py',
+   'DATA'),
+  ('pygame\\tests\\docs_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\docs_test.py',
+   'DATA'),
+  ('pygame\\tests\\draw_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\draw_test.py',
+   'DATA'),
+  ('pygame\\tests\\event_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\event_test.py',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\fonts\\A_PyGameMono-8.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\fonts\\A_PyGameMono-8.png',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\fonts\\PlayfairDisplaySemibold.ttf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\fonts\\PlayfairDisplaySemibold.ttf',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\fonts\\PyGameMono-18-100dpi.bdf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\fonts\\PyGameMono-18-100dpi.bdf',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\fonts\\PyGameMono-18-75dpi.bdf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\fonts\\PyGameMono-18-75dpi.bdf',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\fonts\\PyGameMono-8.bdf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\fonts\\PyGameMono-8.bdf',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\fonts\\PyGameMono.otf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\fonts\\PyGameMono.otf',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\fonts\\test_fixed.otf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\fonts\\test_fixed.otf',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\fonts\\test_sans.ttf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\fonts\\test_sans.ttf',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\fonts\\u13079_PyGameMono-8.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\fonts\\u13079_PyGameMono-8.png',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\xbm_cursors\\white_sizing.xbm',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\xbm_cursors\\white_sizing.xbm',
+   'DATA'),
+  ('pygame\\tests\\fixtures\\xbm_cursors\\white_sizing_mask.xbm',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\fixtures\\xbm_cursors\\white_sizing_mask.xbm',
+   'DATA'),
+  ('pygame\\tests\\font_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\font_test.py',
+   'DATA'),
+  ('pygame\\tests\\freetype_tags.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\freetype_tags.py',
+   'DATA'),
+  ('pygame\\tests\\freetype_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\freetype_test.py',
+   'DATA'),
+  ('pygame\\tests\\ftfont_tags.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\ftfont_tags.py',
+   'DATA'),
+  ('pygame\\tests\\ftfont_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\ftfont_test.py',
+   'DATA'),
+  ('pygame\\tests\\gfxdraw_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\gfxdraw_test.py',
+   'DATA'),
+  ('pygame\\tests\\image__save_gl_surface_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\image__save_gl_surface_test.py',
+   'DATA'),
+  ('pygame\\tests\\image_tags.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\image_tags.py',
+   'DATA'),
+  ('pygame\\tests\\image_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\image_test.py',
+   'DATA'),
+  ('pygame\\tests\\imageext_tags.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\imageext_tags.py',
+   'DATA'),
+  ('pygame\\tests\\imageext_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\imageext_test.py',
+   'DATA'),
+  ('pygame\\tests\\joystick_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\joystick_test.py',
+   'DATA'),
+  ('pygame\\tests\\key_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\key_test.py',
+   'DATA'),
+  ('pygame\\tests\\locals_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\locals_test.py',
+   'DATA'),
+  ('pygame\\tests\\mask_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\mask_test.py',
+   'DATA'),
+  ('pygame\\tests\\math_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\math_test.py',
+   'DATA'),
+  ('pygame\\tests\\midi_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\midi_test.py',
+   'DATA'),
+  ('pygame\\tests\\mixer_music_tags.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\mixer_music_tags.py',
+   'DATA'),
+  ('pygame\\tests\\mixer_music_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\mixer_music_test.py',
+   'DATA'),
+  ('pygame\\tests\\mixer_tags.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\mixer_tags.py',
+   'DATA'),
+  ('pygame\\tests\\mixer_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\mixer_test.py',
+   'DATA'),
+  ('pygame\\tests\\mouse_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\mouse_test.py',
+   'DATA'),
+  ('pygame\\tests\\pixelarray_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\pixelarray_test.py',
+   'DATA'),
+  ('pygame\\tests\\pixelcopy_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\pixelcopy_test.py',
+   'DATA'),
+  ('pygame\\tests\\rect_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\rect_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\__pycache__\\run_tests__test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\__pycache__\\run_tests__test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\fake_4_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\fake_4_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\fake_5_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\fake_5_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\fake_6_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\fake_6_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\no_assertions__ret_code_of_1__test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\no_assertions__ret_code_of_1__test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\zero_tests_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\__pycache__\\zero_tests_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\fake_2_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\fake_2_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\fake_3_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\fake_3_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\fake_4_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\fake_4_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\fake_5_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\fake_5_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\fake_6_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\fake_6_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\no_assertions__ret_code_of_1__test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\no_assertions__ret_code_of_1__test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\all_ok\\zero_tests_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\all_ok\\zero_tests_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\everything\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\everything\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\everything\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\everything\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\everything\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\everything\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\everything\\__pycache__\\incomplete_todo_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\everything\\__pycache__\\incomplete_todo_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\everything\\__pycache__\\magic_tag_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\everything\\__pycache__\\magic_tag_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\everything\\__pycache__\\sleep_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\everything\\__pycache__\\sleep_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\everything\\fake_2_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\everything\\fake_2_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\everything\\incomplete_todo_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\everything\\incomplete_todo_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\everything\\magic_tag_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\everything\\magic_tag_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\everything\\sleep_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\everything\\sleep_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\exclude\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\exclude\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\exclude\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\exclude\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\exclude\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\exclude\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\exclude\\__pycache__\\invisible_tag_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\exclude\\__pycache__\\invisible_tag_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\exclude\\__pycache__\\magic_tag_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\exclude\\__pycache__\\magic_tag_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\exclude\\fake_2_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\exclude\\fake_2_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\exclude\\invisible_tag_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\exclude\\invisible_tag_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\exclude\\magic_tag_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\exclude\\magic_tag_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\failures1\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\failures1\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\failures1\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\failures1\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\failures1\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\failures1\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\failures1\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\failures1\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\failures1\\__pycache__\\fake_4_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\failures1\\__pycache__\\fake_4_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\failures1\\fake_2_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\failures1\\fake_2_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\failures1\\fake_3_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\failures1\\fake_3_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\failures1\\fake_4_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\failures1\\fake_4_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete\\fake_2_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete\\fake_2_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete\\fake_3_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete\\fake_3_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete_todo\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete_todo\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete_todo\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete_todo\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete_todo\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete_todo\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete_todo\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete_todo\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete_todo\\fake_2_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete_todo\\fake_2_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\incomplete_todo\\fake_3_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\incomplete_todo\\fake_3_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\infinite_loop\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\infinite_loop\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\infinite_loop\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\infinite_loop\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\infinite_loop\\__pycache__\\fake_1_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\infinite_loop\\__pycache__\\fake_1_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\infinite_loop\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\infinite_loop\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\infinite_loop\\fake_1_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\infinite_loop\\fake_1_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\infinite_loop\\fake_2_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\infinite_loop\\fake_2_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stderr\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stderr\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stderr\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stderr\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stderr\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stderr\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stderr\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stderr\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stderr\\__pycache__\\fake_4_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stderr\\__pycache__\\fake_4_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stderr\\fake_2_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stderr\\fake_2_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stderr\\fake_3_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stderr\\fake_3_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stderr\\fake_4_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stderr\\fake_4_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stdout\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stdout\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stdout\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stdout\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stdout\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stdout\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stdout\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stdout\\__pycache__\\fake_3_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stdout\\__pycache__\\fake_4_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stdout\\__pycache__\\fake_4_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stdout\\fake_2_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stdout\\fake_2_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stdout\\fake_3_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stdout\\fake_3_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\print_stdout\\fake_4_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\print_stdout\\fake_4_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\run_tests__test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\run_tests__test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\timeout\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\timeout\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\timeout\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\timeout\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\timeout\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\timeout\\__pycache__\\fake_2_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\timeout\\__pycache__\\sleep_test.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\timeout\\__pycache__\\sleep_test.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\timeout\\fake_2_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\timeout\\fake_2_test.py',
+   'DATA'),
+  ('pygame\\tests\\run_tests__tests\\timeout\\sleep_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\run_tests__tests\\timeout\\sleep_test.py',
+   'DATA'),
+  ('pygame\\tests\\rwobject_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\rwobject_test.py',
+   'DATA'),
+  ('pygame\\tests\\scrap_tags.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\scrap_tags.py',
+   'DATA'),
+  ('pygame\\tests\\scrap_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\scrap_test.py',
+   'DATA'),
+  ('pygame\\tests\\sndarray_tags.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\sndarray_tags.py',
+   'DATA'),
+  ('pygame\\tests\\sndarray_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\sndarray_test.py',
+   'DATA'),
+  ('pygame\\tests\\sprite_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\sprite_test.py',
+   'DATA'),
+  ('pygame\\tests\\surface_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\surface_test.py',
+   'DATA'),
+  ('pygame\\tests\\surfarray_tags.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\surfarray_tags.py',
+   'DATA'),
+  ('pygame\\tests\\surfarray_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\surfarray_test.py',
+   'DATA'),
+  ('pygame\\tests\\surflock_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\surflock_test.py',
+   'DATA'),
+  ('pygame\\tests\\sysfont_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\sysfont_test.py',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\__init__.py',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\__pycache__\\arrinter.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\__pycache__\\arrinter.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\__pycache__\\async_sub.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\__pycache__\\async_sub.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\__pycache__\\buftools.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\__pycache__\\buftools.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\__pycache__\\endian.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\__pycache__\\endian.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\__pycache__\\png.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\__pycache__\\png.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\__pycache__\\run_tests.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\__pycache__\\run_tests.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\__pycache__\\test_machinery.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\__pycache__\\test_machinery.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\__pycache__\\test_runner.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\__pycache__\\test_runner.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\arrinter.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\arrinter.py',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\async_sub.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\async_sub.py',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\buftools.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\buftools.py',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\endian.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\endian.py',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\png.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\png.py',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\run_tests.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\run_tests.py',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\test_machinery.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\test_machinery.py',
+   'DATA'),
+  ('pygame\\tests\\test_utils\\test_runner.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\test_utils\\test_runner.py',
+   'DATA'),
+  ('pygame\\tests\\threads_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\threads_test.py',
+   'DATA'),
+  ('pygame\\tests\\time_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\time_test.py',
+   'DATA'),
+  ('pygame\\tests\\touch_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\touch_test.py',
+   'DATA'),
+  ('pygame\\tests\\transform_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\transform_test.py',
+   'DATA'),
+  ('pygame\\tests\\version_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\version_test.py',
+   'DATA'),
+  ('pygame\\tests\\video_test.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\tests\\video_test.py',
+   'DATA'),
+  ('pygame\\threads\\__init__.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\threads\\__init__.py',
+   'DATA'),
+  ('pygame\\threads\\__pycache__\\__init__.cpython-311.pyc',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\threads\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('pygame\\time.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\time.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\time.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\time.pyi',
+   'DATA'),
+  ('pygame\\transform.cp311-win_amd64.pyd',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\transform.cp311-win_amd64.pyd',
+   'DATA'),
+  ('pygame\\transform.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\transform.pyi',
+   'DATA'),
+  ('pygame\\version.py',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\version.py',
+   'DATA'),
+  ('pygame\\version.pyi',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\version.pyi',
+   'DATA'),
+  ('pygame\\zlib1.dll',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\venv\\Lib\\site-packages\\pygame\\zlib1.dll',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\build\\main\\base_library.zip',
+   'DATA'),
+  ('files\\asset\\bullet.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\asset\\bullet.png',
+   'DATA'),
+  ('files\\asset\\live.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\asset\\live.png',
+   'DATA'),
+  ('files\\asset\\logo.ico',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\asset\\logo.ico',
+   'DATA'),
+  ('files\\asset\\screen logo.png',
+   'C:\\Users\\XPS\\Desktop\\Pro Portfolio\\Break-Out-2\\files\\asset\\screen '
+   'logo.png',
+   'DATA'),
+  ('files\\assets\\31-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\31-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\32-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\32-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\33-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\33-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\34-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\34-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\35-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\35-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\36-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\36-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\37-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\37-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\38-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\38-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\39-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\39-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\40-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\40-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\41-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\41-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\42-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\42-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\43-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\43-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\44-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\44-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\45-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\45-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\46-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\46-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\47-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\47-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\48-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\48-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\49-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\49-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\59-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\59-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\60-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\60-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\61-Breakout-Tiles.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\assets\\61-Breakout-Tiles.png',
+   'DATA'),
+  ('files\\assets\\Asset 10.png',
+   'C:\\Users\\XPS\\Desktop\\Pro Portfolio\\Break-Out-2\\files\\assets\\Asset '
+   '10.png',
+   'DATA'),
+  ('files\\assets\\screen logo.png',
+   'C:\\Users\\XPS\\Desktop\\Pro Portfolio\\Break-Out-2\\files\\assets\\screen '
+   'logo.png',
+   'DATA'),
+  ('files\\ball\\ball.png',
+   'C:\\Users\\XPS\\Desktop\\Pro Portfolio\\Break-Out-2\\files\\ball\\ball.png',
+   'DATA'),
+  ('files\\font\\kenvector_future.ttf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\font\\kenvector_future.ttf',
+   'DATA'),
+  ('files\\font\\ken_vector_future_thin.ttf',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\font\\ken_vector_future_thin.ttf',
+   'DATA'),
+  ('files\\music\\bounce-ball.mp3',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\music\\bounce-ball.mp3',
+   'DATA'),
+  ('files\\music\\breaking tile.mp3',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\music\\breaking tile.mp3',
+   'DATA'),
+  ('files\\music\\fat_shadow_-_epic_kill.mp3',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\music\\fat_shadow_-_epic_kill.mp3',
+   'DATA'),
+  ('files\\music\\gun_shot.wav',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\music\\gun_shot.wav',
+   'DATA'),
+  ('files\\music\\live.mp3',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\music\\live.mp3',
+   'DATA'),
+  ('files\\music\\menu.mp3',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\music\\menu.mp3',
+   'DATA'),
+  ('files\\paddle\\paddle.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\paddle\\paddle.png',
+   'DATA'),
+  ('files\\paddle\\paddle_0.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\paddle\\paddle_0.png',
+   'DATA'),
+  ('files\\paddle\\paddle_1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\paddle\\paddle_1.png',
+   'DATA'),
+  ('files\\paddle\\paddle_2.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\paddle\\paddle_2.png',
+   'DATA'),
+  ('files\\paddle\\paddle_3.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\paddle\\paddle_3.png',
+   'DATA'),
+  ('files\\paddle\\paddle_4.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\paddle\\paddle_4.png',
+   'DATA'),
+  ('files\\paddle\\paddle_5.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\paddle\\paddle_5.png',
+   'DATA'),
+  ('files\\paddle\\paddle_6.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\paddle\\paddle_6.png',
+   'DATA'),
+  ('files\\tiles_rect\\1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\1.png',
+   'DATA'),
+  ('files\\tiles_rect\\10.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\10.png',
+   'DATA'),
+  ('files\\tiles_rect\\11.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\11.png',
+   'DATA'),
+  ('files\\tiles_rect\\12.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\12.png',
+   'DATA'),
+  ('files\\tiles_rect\\13.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\13.png',
+   'DATA'),
+  ('files\\tiles_rect\\14.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\14.png',
+   'DATA'),
+  ('files\\tiles_rect\\15.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\15.png',
+   'DATA'),
+  ('files\\tiles_rect\\16.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\16.png',
+   'DATA'),
+  ('files\\tiles_rect\\2.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\2.png',
+   'DATA'),
+  ('files\\tiles_rect\\3.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\3.png',
+   'DATA'),
+  ('files\\tiles_rect\\4.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\4.png',
+   'DATA'),
+  ('files\\tiles_rect\\5.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\5.png',
+   'DATA'),
+  ('files\\tiles_rect\\6.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\6.png',
+   'DATA'),
+  ('files\\tiles_rect\\7.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\7.png',
+   'DATA'),
+  ('files\\tiles_rect\\8.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\8.png',
+   'DATA'),
+  ('files\\tiles_rect\\9.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect\\9.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\10b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\10b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\11b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\11b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\12b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\12b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\13b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\13b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\14b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\14b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\15b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\15b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\16b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\16b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\1b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\1b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\2b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\2b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\3b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\3b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\4b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\4b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\5b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\5b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\6b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\6b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\7b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\7b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\8b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\8b.png',
+   'DATA'),
+  ('files\\tiles_rect_b\\9b.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_rect_b\\9b.png',
+   'DATA'),
+  ('files\\tiles_sqr\\1.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\1.png',
+   'DATA'),
+  ('files\\tiles_sqr\\10.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\10.png',
+   'DATA'),
+  ('files\\tiles_sqr\\11.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\11.png',
+   'DATA'),
+  ('files\\tiles_sqr\\12.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\12.png',
+   'DATA'),
+  ('files\\tiles_sqr\\13.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\13.png',
+   'DATA'),
+  ('files\\tiles_sqr\\14.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\14.png',
+   'DATA'),
+  ('files\\tiles_sqr\\15.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\15.png',
+   'DATA'),
+  ('files\\tiles_sqr\\16.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\16.png',
+   'DATA'),
+  ('files\\tiles_sqr\\2.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\2.png',
+   'DATA'),
+  ('files\\tiles_sqr\\3.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\3.png',
+   'DATA'),
+  ('files\\tiles_sqr\\4.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\4.png',
+   'DATA'),
+  ('files\\tiles_sqr\\5.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\5.png',
+   'DATA'),
+  ('files\\tiles_sqr\\6.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\6.png',
+   'DATA'),
+  ('files\\tiles_sqr\\7.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\7.png',
+   'DATA'),
+  ('files\\tiles_sqr\\8.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\8.png',
+   'DATA'),
+  ('files\\tiles_sqr\\9.png',
+   'C:\\Users\\XPS\\Desktop\\Pro '
+   'Portfolio\\Break-Out-2\\files\\tiles_sqr\\9.png',
+   'DATA')],
+ [],
+ None,
+ False,
+ 1690372458,
+ [('runw.exe',
+   'C:\\Users\\XPS\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')])

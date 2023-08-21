@@ -4,6 +4,7 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 --- 
+![break-out-II-BG](https://github.com/PythonDecorator/Break-Out-II/assets/133740663/1455bb5f-d6ed-4d11-bf35-5b02a5e7ce1f)
 
 ## Table of Contents
 
@@ -41,7 +42,6 @@ an engaging and entertaining gaming experience.
 
 
 ## Demo
-![demo-blog.gif](apps/static/assets/demo/demo-blog.gif)
 - **Download the One file .exe file from the dist or download folder**
 - **You don't need to install anything, just download, click and start playing.**
 
